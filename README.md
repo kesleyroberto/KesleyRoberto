@@ -1,15 +1,26 @@
-### Olá 👋
+## Olá, sou o Kesley 👋
 
-### 📚 Formação
+é só isso mesmo.
 
-- Técnico em Informática
-- Graduação em Engenharia Mecatrônica
-- Graduação em Engenharia da Computação
+### 📚 Formação Acadêmica
 
-### 📘 Experiência Profissional
+- Técnico em Informática - Cecon
+- Graduação em Engenharia Mecatrônica - CEFET-MG
+- Graduação em Engenharia da Computação - UEMG
 
-- Técnico em Informática 
-- Trainee em Engenharia
+### :briefcase: Experiência Profissional
+
+- Técnico em Informática - [Apoio Info](https://www.apoioinfo.com.br/)
+- Trainee em Engenharia - [Visii Soluções Integradas](http://visii.com.br/home)
+
+### 📪 Contato
+
+- E-mail: kesleyroberto@gmail.com
+- Facebook: [KesleyRoberto](https://fb.com/KesleyRoberto)
+- Instagram: [KesleyRoberto](https://ig.com/KesleyRoberto)
+- Linked-in: [kesley-roberto-5b410b5b](https://www.linkedin.com/in/kesley-roberto-5b410b5b/)
+- Skype: @KesleyRoberto
+- Whatsapp: [+ 55 (37) 9 9908-8759](https://wa.me/5537999088759)
 
 
 <!--
