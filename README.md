@@ -4,9 +4,9 @@
 
 ### 📚 Formação Acadêmica
 
-- Técnico em Informática - Cecon
-- Graduação em Engenharia Mecatrônica - CEFET-MG
-- Graduação em Engenharia da Computação - UEMG
+- Técnico em Informática - (201-2012) - [Cecon](https://cecon.com.br/)
+- Graduação em Engenharia Mecatrônica - (2015-2019) - [CEFET-MG](http://www.eng-mecatronica.divinopolis.cefetmg.br/)
+- Graduação em Engenharia da Computação (2012-2014; 2020+) - [UEMG](http://uemg.br/graduacao/cursos2/course/engenharia-da-computacao)
 
 ### :briefcase: Experiência Profissional
 
