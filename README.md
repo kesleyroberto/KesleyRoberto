@@ -18,7 +18,7 @@
 - E-mail: kesleyroberto@gmail.com
 - Facebook: [KesleyRoberto](https://fb.com/KesleyRoberto)
 - Instagram: [KesleyRoberto](https://ig.com/KesleyRoberto)
-- Linked-in: [KesleyRoberto](https://www.linkedin.com/in/kesley-roberto-5b410b5b/)
+- Linked-in: [KesleyRoberto](https://www.linkedin.com/in/KesleyRoberto/)
 - Skype: @KesleyRoberto
 - Whatsapp: [+ 55 (37) 9 9908-8759](https://wa.me/5537999088759)
 
