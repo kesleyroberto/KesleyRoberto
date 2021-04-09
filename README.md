@@ -1,6 +1,9 @@
 ## Olá, sou o Kesley 👋
 
-é só isso mesmo.
+Sou Engenheiro Mecatrônico pelo CEFET-MG (2019) e atualmente trabalho como Analista de Engenharia da empresa Visii Soluções Integradas.
+Por ter conhecimentos em programação, acabei me aproximando das tarefas de desenvolvimento web, estudando principalmente o framework ReactJS.
+
+Além disso, também desenvolvo ferramentas em python e C/C++ (Arduino)
 
 ### 📚 Formação Acadêmica
 
@@ -10,8 +13,13 @@
 
 ### :briefcase: Experiência Profissional
 
-- Técnico em Informática - [Apoio Info](https://www.apoioinfo.com.br/)
-- Trainee em Engenharia - [Visii Soluções Integradas](http://visii.com.br/home)
+ [Apoio Info](https://www.apoioinfo.com.br/)
+- Técnico em Informática 09/2012 - 03/2013
+
+ [Visii Soluções Integradas](http://visii.com.br/home)
+- Estagiário de Engenharia - 08/2019 - 12/2019
+- Trainee em Engenharia - 01/2020 - 12/2020
+- Analista de Engenharia - 01/2021 - Atualmente
 
 ### 📪 Contato
 
@@ -19,6 +27,7 @@
 - Facebook: [KesleyRoberto](https://fb.com/KesleyRoberto)
 - Instagram: [KesleyRoberto](https://ig.com/KesleyRoberto)
 - Linked-in: [KesleyRoberto](https://www.linkedin.com/in/KesleyRoberto/)
+- Lattes: [Kesley Roberto Ferreira Silva](http://lattes.cnpq.br/5515992132385297)
 - Skype: @KesleyRoberto
 - Whatsapp: [+ 55 (37) 9 9908-8759](https://wa.me/5537999088759)
 
