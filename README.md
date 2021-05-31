@@ -1,6 +1,6 @@
 ## Olá, sou o Kesley 👋
 
-Sou Engenheiro Mecatrônico pelo CEFET-MG (2019) e atualmente trabalho como Analista de Engenharia da empresa Visii Soluções Integradas.
+Sou Engenheiro Mecatrônico pelo CEFET-MG (2019) e atualmente trabalho como especialista em HMI no grupo Stellantis LATAM.
 Por ter conhecimentos em programação, acabei me aproximando das tarefas de desenvolvimento web, estudando principalmente o framework ReactJS.
 
 Além disso, também desenvolvo ferramentas em python e C/C++ (Arduino)
@@ -19,7 +19,10 @@ Além disso, também desenvolvo ferramentas em python e C/C++ (Arduino)
  [Visii Soluções Integradas](http://visii.com.br/home)
 - Estagiário de Engenharia - 08/2019 - 12/2019
 - Trainee em Engenharia - 01/2020 - 12/2020
-- Analista de Engenharia - 01/2021 - Atualmente
+- Analista de Engenharia - 01/2021 - 04/2021
+
+[Stellantis LATAM](https://www.stellantispress.com.br/)
+- HMI Specialist - 04/2021 - Atual
 
 ### 📪 Contato
 
